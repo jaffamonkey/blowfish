@@ -62,26 +62,11 @@
   pageRef = "guides"
   weight = 40
 
-[[main]]
-  name = "Users"
-  pageRef = "users"
-  weight = 90
-
-[[main]]
-  name = "Merch"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
-  weight = 100
 
 #[[main]]
 #  name = "Test"
 #  pageRef = "pagTest"
 #  weight = 1000
-
-[[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 200
 
 #[[main]]
 #  identifier = "mastodon"
@@ -92,7 +77,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/jaffamonkey"
   weight = 400
 
 
