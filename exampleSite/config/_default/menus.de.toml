@@ -7,6 +7,31 @@
   weight = 10
 
 [[main]]
+  name = "Accessibility audit"
+  pageRef = "accessibility"
+  weight = 10
+
+[[main]]
+  name = "Systemic Analyzer"
+  pageRef = "accessibility-systemic-analyzer"
+  weight = 10
+
+[[main]]
+  name = "Conversational AI"
+  pageRef = "conversational-ai"
+  weight = 10
+
+[[main]]
+  name = "Testing"
+  pageRef = "testing"
+  weight = 10
+
+[[main]]
+  name = "Dokumentation"
+  pageRef = "docs"
+  weight = 10
+
+[[main]]
   name = "Shortcodes"
   pageRef = "docs/shortcodes"
   weight = 15
